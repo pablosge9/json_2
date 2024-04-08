@@ -1,0 +1,39 @@
+{
+    "lista-monitores": [
+      
+        {
+        "monitor":  "ASUS VG248QE",
+        "marca": "ASUS",
+        "tamano-pantalla": "27 pulgadas",
+        "resolucion": "3840 x 2160",
+        "tipo-panel": "IPS",
+        "frecuencia-actualizacion": "144hz",
+        "valoracion1": "Increíble calidad de imagen, los colores son vibrantes y nítidos.",
+        "valoracion2": "Fácil de configurar y ajustar, incluso para un usuario novato.",
+        "valoracion3": "El diseño delgado del monitor se ve elegante en mi escritorio."
+      },
+      {
+        "monitor":  "LG 34UC79G-B ",
+        "marca": "LG",
+        "tamano-pantalla": "32 pulgadas",
+        "resolucion": "2560 x 1440",
+        "tipo-panel": "VA",
+        "frecuencia-actualizacion": "75hz",
+        "valoracion1": "El tamaño de la pantalla es perfecto para trabajar y para jugar.",
+        "valoracion2": "Excelente relación calidad-precio, no encontrarás nada mejor en este rango de precios.",
+        "valoracion3": "Los ángulos de visión son amplios, lo que hace que sea cómodo de ver desde cualquier posición."
+
+      },
+      {
+        "monitor":  "Dell UltraSharp U2719D",
+        "marca": "Dell",
+        "tamano-pantalla": "24 pulgadas",
+        "resolucion": "1920 x 1080",
+        "tipo-panel": "TN",
+        "frecuencia-actualizacion": "60hz",
+        "valoracion1": "El modo de juego incorporado realmente mejora la experiencia de juego, los detalles son impresionantes.",
+        "valoracion2": "La pantalla anti reflejos es una bendición para trabajar en ambientes con mucha luz.",
+        "valoracion3": "El soporte ajustable permite encontrar la posición más cómoda para largas sesiones frente al ordenador."
+      }
+    ]
+  }
